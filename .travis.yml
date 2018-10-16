@@ -6,7 +6,7 @@ before_install:
   - npm install -g yarn
   - yarn -V
 install:
-  - yarn install --check-files
+  - yarn install --force
 
 cache:
   directories:
