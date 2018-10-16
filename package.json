@@ -1,0 +1,30 @@
+{
+  "name": "@polRk/template",
+  "version": "1.0.1",
+  "scripts": {
+    "start": "pm2 start index.ts"
+  },
+  "postinstall": "$(yarn bin)/pm2 install typescript",
+  "author": "polRk <polrkov.tm@gmail.com>",
+  "main": "index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "latest",
+    "lodash": "latest",
+    "supertest": "latest"
+  },
+  "devDependencies": {
+    "@types/koa": "latest",
+    "@types/lodash": "latest",
+    "@types/supertest": "latest",
+    "@types/jest": "latest",
+    "@types/node": "latest",
+    "pm2": "latest",
+    "jest": "latest",
+    "ts-jest": "latest",
+    "ts-node": "latest",
+    "tslint": "latest",
+    "typescript": "latest"
+  },
+  "private": true
+}

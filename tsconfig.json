@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+      "lib": [
+        "es6"
+      ],
+      "module": "commonjs",
+      "noImplicitReturns": true,
+      "allowJs": true,
+      "noImplicitAny": true,
+      "sourceMap": false,
+      "target": "es6"
+    },
+    "include": [
+      "src/**/*.ts",
+      "src/**/*.tsx"
+    ],
+    "exclude": [
+      "test/**/*.test.ts",
+      "node_modules"
+    ],
+    "compileOnSave": true
+  }
+  

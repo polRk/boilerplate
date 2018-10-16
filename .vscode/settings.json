@@ -1,0 +1,10 @@
+{
+    "jest.pathToJest": "node_modules/.bin/jest",
+    "terminal.integrated.fontFamily": "Source Code Pro for Powerline",
+    "terminal.integrated.fontSize": 14,
+    "editor.tabSize": 2,
+    "tslint.packageManager": "yarn",
+    "npm.packageManager": "yarn",
+    "eslint.packageManager": "yarn",
+    "npm.bin": "yarn",
+}
