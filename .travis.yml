@@ -7,7 +7,3 @@ before_install:
   - yarn -V
 install:
   - yarn install --force
-
-cache:
-  directories:
-    - "node_modules"
