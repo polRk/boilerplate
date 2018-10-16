@@ -2,7 +2,8 @@
   "name": "@polRk/template",
   "version": "1.0.1",
   "scripts": {
-    "start": "pm2 start index.ts"
+    "start": "pm2 start index.ts",
+    "test": "jest"
   },
   "postinstall": "$(yarn bin)/pm2 install typescript",
   "author": "polRk <polrkov.tm@gmail.com>",
