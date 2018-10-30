@@ -1,1 +1,1 @@
-# polRk [![Build Status](https://travis-ci.com/polRk/boilerplate.svg?branch=master)](https://travis-ci.com/polRk/boilerplate)
+# polRk [![Build Status](https://travis-ci.com/polRk/boilerplate.svg?branch=master)](https://travis-ci.com/polRk/boilerplate) [![CodeFactor](https://www.codefactor.io/repository/github/polrk/boilerplate/badge/master)](https://www.codefactor.io/repository/github/polrk/boilerplate/overview/master)
